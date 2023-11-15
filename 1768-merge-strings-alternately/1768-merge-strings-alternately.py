@@ -1,16 +1,18 @@
-class Solution:
-    def mergeAlternately(self, word1: str, word2: str) -> str:
-        m = len(word1)
-        n = len(word2)
-        i = 0
-        j = 0
-        result = []
-        
-        while i < m or j < n:
-            if i < m:
-                result += word1[i]
-                i+=1
-            if j < n:
-                result+=word2[j]
-                j+=1
-        return ''.join(result)
+class Solution(object):
+    def mergeAlternately(self, word1, word2):
+        """
+        :type word1: str
+        :type word2: str
+        :rtype: str
+        """
+        merged_str=''
+        len_word1 = len(word1)
+        len_word2 = len(word2)
+        long_len = len_word1 if len_word1 > len_word2 else len_word2
+        for i in range(0,long_len):
+            if i < (len_word1):
+                merged_str+=word1[i]
+            if i < (len_word2): 
+                 merged_str+=word2[i]
+        return merged_str
+    
