@@ -1,5 +1,12 @@
-class Solution:
-    def reverseWords(self, s: str) -> str:
-        s = s.strip()
-        s = s.split()
-        return ' '.join([i for i in reversed(s)])
+class Solution(object):
+    def reverseWords(self, s):
+        """
+        :type s: str
+        :rtype: str
+        """
+        words = s.split()
+        words = [i for i in words if len(i) > 0]
+        
+        return ' '.join(list(reversed(words)))
+        
+        
