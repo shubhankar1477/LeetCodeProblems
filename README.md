@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/shubhankar1477/LeetCodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/shubhankar1477/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -20,4 +21,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shubhankar1477/LeetCodeProblems/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/shubhankar1477/LeetCodeProblems/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/shubhankar1477/LeetCodeProblems/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
