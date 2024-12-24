@@ -35,8 +35,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shubhankar1477/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shubhankar1477/LeetCodeProblems/tree/master/0142-linked-list-cycle-ii) |
+| [1894-merge-strings-alternately](https://github.com/shubhankar1477/LeetCodeProblems/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shubhankar1477/LeetCodeProblems/tree/master/0242-valid-anagram) |
+| [1894-merge-strings-alternately](https://github.com/shubhankar1477/LeetCodeProblems/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
