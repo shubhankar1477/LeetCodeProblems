@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/shubhankar1477/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/shubhankar1477/LeetCodeProblems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/shubhankar1477/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [2350-find-closest-number-to-zero](https://github.com/shubhankar1477/LeetCodeProblems/tree/master/2350-find-closest-number-to-zero) |
@@ -46,4 +47,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shubhankar1477/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/shubhankar1477/LeetCodeProblems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
